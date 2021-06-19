@@ -11,7 +11,7 @@ INSERT INTO books (title,publisher) VALUES("Cryptonomicon",2);
 INSERT INTO books (title,publisher) VALUES("Deep Work",3);
 INSERT INTO books (title,publisher) VALUES("Atomic Habits",4);
 INSERT INTO books (title,publisher) VALUES("The City and The City",5);
-INSERT INTO books (title,publisher) VALUES("The Great war for Civilisation",6);
+INSERT INTO books (title,publisher) VALUES("The Great War for Civilisation",6);
 INSERT INTO subjects (name) VALUES("C");
 INSERT INTO subjects (name) VALUES("UNIX");
 INSERT INTO subjects (name) VALUES("Technology");
