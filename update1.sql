@@ -1,2 +1,2 @@
-UPDATE publisher set name="Prentice Hall" where name="PHI";
-DELETE subject FROM books_subjects where id=8;
+UPDATE publisher set name="Prentice Hall" where id=1;
+
